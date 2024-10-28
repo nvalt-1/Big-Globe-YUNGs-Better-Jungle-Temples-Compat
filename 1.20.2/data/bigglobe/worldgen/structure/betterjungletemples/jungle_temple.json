@@ -1,0 +1,5 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "betterjungletemples:jungle_temple",
+  "biomes": "#betterjungletemples:has_structure/better_jungle_temple"
+}
